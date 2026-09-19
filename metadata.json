@@ -1,0 +1,6 @@
+{
+  "name": "GIF 批量预览工具",
+  "description": "纯本地离线批量预览 GIF 动图，文件完全在浏览器本地解析无需上传服务器，支持拖拽导入、多选及文件夹读取、自动网格化预览列表与播放控制。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
